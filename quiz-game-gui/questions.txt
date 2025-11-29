@@ -1,0 +1,32 @@
+# EASY QUESTIONS
+EASY
+Q: What is 5 + 3?
+A: 8
+OPTIONS: 6, 7, 8, 9
+
+EASY
+Q: Which animal barks?
+A: Dog
+OPTIONS: Cat, Dog, Cow, Horse
+
+# MEDIUM QUESTIONS
+MEDIUM
+Q: What is the capital of Kenya?
+A: Nairobi
+OPTIONS: Nairobi, Mombasa, Durban, Kisumu
+
+MEDIUM
+Q: 15 × 4 = ?
+A: 60
+OPTIONS: 45, 60, 55, 65
+
+# HARD QUESTIONS
+HARD
+Q: Who discovered gravity?
+A: Isaac Newton
+OPTIONS: Einstein, Tesla, Isaac Newton, Maxwell
+
+HARD
+Q: What is the chemical symbol for gold?
+A: Au
+OPTIONS: Ag, Au, Go, Gd
